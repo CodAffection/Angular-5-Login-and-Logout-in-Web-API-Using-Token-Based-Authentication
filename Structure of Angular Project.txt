@@ -1,0 +1,22 @@
+● src
++---● app
+|   +--● user
+|      |--user.component.ts|.html|.css
+|      +--● sign-in
+|      |  |--sign-in.component.ts|.html|.css
+|      |
+|      +--● sign-up
+|      |  |--sign-up.component.ts|.html|.css
+|      |
+|      +--● shared
+|         |--user.service.ts
+|         |--user.model.ts
+|
++---● home  
+|   |--home.component.ts|.html|.css
+|
+|---● routes.ts
+|
++---● auth  
+|   |--auth.guard.ts
+|   |--auth.interceptor.ts
