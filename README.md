@@ -8,13 +8,6 @@ This is an Angular 5 Application to demonstrate how implementation of Token Base
  # Related Project
  User Registration in Angular 5 With Web API : https://github.com/DotnetMob/User-Registration-in-Angular-5-With-Web-API
  
-  # Possible Error Fixes in Web API Project
-- dependent assembly for Newtonsoft.Json in web.config file
-<dependentAssembly>
-        <assemblyIdentity name="Newtonsoft.Json"
-            publicKeyToken="30AD4FE6B2A6AEED" culture="neutral"/>
-        <bindingRedirect oldVersion="0.0.0.0-6.0.0.0" newVersion="6.0.0.0"/>
-      </dependentAssembly>
  
  
  # Step By Step Explanation
