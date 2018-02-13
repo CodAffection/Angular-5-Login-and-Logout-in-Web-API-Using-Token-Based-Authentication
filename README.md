@@ -10,11 +10,11 @@ This is an Angular 5 Application to demonstrate how implementation of Token Base
  
   # Possible Error Fixes in Web API Project
 - dependent assembly for Newtonsoft.Json in web.config file
-"<dependentAssembly>
+<dependentAssembly>
         <assemblyIdentity name="Newtonsoft.Json"
             publicKeyToken="30AD4FE6B2A6AEED" culture="neutral"/>
         <bindingRedirect oldVersion="0.0.0.0-6.0.0.0" newVersion="6.0.0.0"/>
-      </dependentAssembly>"
+      </dependentAssembly>
  
  
  # Step By Step Explanation
