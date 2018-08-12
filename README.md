@@ -12,6 +12,7 @@ This is an Angular 5 Application to demonstrate how implementation of Token Base
  
  # Step By Step Explanation
  
+ Text Article : https://goo.gl/WPvUSD
  Video Tutorial : https://youtu.be/e8BlURn6SFk
  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=e8BlURn6SFk
